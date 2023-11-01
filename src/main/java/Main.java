@@ -21,6 +21,6 @@ public class Main {
         System.out.println("Цена рубашек со скидкой = " + allPriceDiscount);
         System.out.println("Цена одной рубашки со скидкой = " + priceOneShirtDiscount);
         System.out.println("Сэкономленные деньги после покупки со скидкой = " + moneySaved);
-        System.out.println("Рубашки, полученный нахаляву = " + freeShirt);
+        System.out.println("Рубашки, полученные нахаляву = " + freeShirt);
     }
 }
